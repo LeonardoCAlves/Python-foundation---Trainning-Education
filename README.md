@@ -11,7 +11,6 @@
 </div>
 
 <h3>📦 Módulo 1: Fundamentos Iniciais</h3>
-
 <img src="img/Python-logo.png" width="15" /> Visão geral<br>
 <img src="img/Python-logo.png" width="15" /> Sintaxe Básica<br>
 <img src="img/Python-logo.png" width="15" /> Variáveis<br>
@@ -28,26 +27,76 @@
 &nbsp; &nbsp; &nbsp; &nbsp; Match<br>
 <img src="img/Python-logo.png" width="15" /> Loops<br>
 &nbsp; &nbsp; &nbsp; &nbsp; For<br>
-&nbsp; &nbsp; &nbsp; &nbsp; While<br>
-
- <!-- <a href="mailto:leon4rdoalvess@gmail.com" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135926148-30e0cd29-92a2-46ca-ad8d-28fa6175e58a.png"></a> -->
+&nbsp; &nbsp; &nbsp; &nbsp; While<br><br>
 
 <h3>📦 Módulo 2: Coleções</h3>
-
-<img src="img/Python-logo.png" width="15" /> Atualizando strings<br>
-<img src="img/Python-logo.png" width="15" /> Formatação de string<br>
-<img src="img/Python-logo.png" width="15" /> Listas<br>
+<img src="img/Python-logo.png" width="15" /> Lista<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Operações básicas<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Indexação, fatia e matrizes<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Funções e métodos<br>
-<img src="img/Python-logo.png" width="15" /> Tuplas<br>
+<img src="img/Python-logo.png" width="15" /> Tupla<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Operações básicas<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Indexação, fatia e matrizes<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Funções e métodos<br>
+<img src="img/Python-logo.png" width="15" /> Conjunto<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Operações básicas<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Indexação, fatia e matrizes<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Funções e métodos<br>
 <img src="img/Python-logo.png" width="15" /> Dicionário<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Operações básicas<br>
-&nbsp; &nbsp; &nbsp; &nbsp; Funções e métodos<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Funções e métodos<br><br>
 
+<h3>📦 Módulo 3: Funções e Módulos</h3>
+<img src="img/Python-logo.png" width="15" /> Função<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Definindo uma função<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Chamando uma função<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Return<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Parâmetros e Argumentos<br>
+<img src="img/Python-logo.png" width="15" />  Lambda<br>
+<img src="img/Python-logo.png" width="15" /> Escopo de variáveis<br>
+<img src="img/Python-logo.png" width="15" /> Módulos e PIP<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Importação<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Instalação<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Atualização<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Remoção<br>
 
-<div align="center"><a href="../README.md"><img src="https://i.imgur.com/kfHCxif.png" title="source: imgur.com" width="5%"/></a></div>
-<div align="center">Home</div>
+<h3>📦 Módulo 4: Manipulação de Arquivos</h3>
+<img src="img/Python-logo.png" width="15" /> I/O<br>
+<img src="img/Python-logo.png" width="15" /> Abrindo e fechando arquivos<br>
+<img src="img/Python-logo.png" width="15" /> Funções e Métodos<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Open<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Close<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Write<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Rename<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Remove<br>
+<img src="img/Python-logo.png" width="15" /> mkdir<br>
+<img src="img/Python-logo.png" width="15" /> getCWD<br>
+<img src="img/Python-logo.png" width="15" /> rmdir<br><br>
+
+<h3>📦 Módulo 5: Programação Orientada a Objetos</h3>
+<img src="img/Python-logo.png" width="15" /> Classe<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Definindo<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Definindo método construtor<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Criando objeto<br>
+<img src="img/Python-logo.png" width="15" />  Herança<br>
+<img src="img/Python-logo.png" width="15" />  Polimorfismo<br>
+
+<h3>📦 Módulo 6: Data e Tempo</h3>
+<img src="img/Python-logo.png" width="15" /> Tick e TimeTuple<br>
+<img src="img/Python-logo.png" width="15" /> Calendar<br>
+<img src="img/Python-logo.png" width="15" /> DateTime<br>
+<img src="img/Python-logo.png" width="15" /> PyTZ<br><br>
+
+<h3>📦 Módulo 7: Expressões Regulares</h3>
+<img src="img/Python-logo.png" width="15" /> Regex<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Findall<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Compile<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Search<br>
+
+<h3>📦 Módulo 8: WebScraping</h3>
+<img src="img/Python-logo.png" width="15" /> O que é webscraping?<br>
+<img src="img/Python-logo.png" width="15" /> urlLib<br>
+<img src="img/Python-logo.png" width="15" /> Requests<br>
+<img src="img/Python-logo.png" width="15" /> Beautiful Soup<br>
+<img src="img/Python-logo.png" width="15" /> Find e Find_all<br>
+<img src="img/Python-logo.png" width="15" /> Webscraping com Pandas<br>
